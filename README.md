@@ -12,10 +12,8 @@ The goal is to create a News Feed app which gives a user regularly-updated news 
 9- RecyclerView<br/>
 10-SharedPreferences<br/>
 
-![1](https://user-images.githubusercontent.com/89569367/186378968-eabd0c2f-1de4-49e2-b64a-11126faaf6ea.jpg)
-
-  ![2](https://user-images.githubusercontent.com/89569367/186379580-a41f905a-6c85-4d19-a6fb-8f9f206a02e5.jpg)
-
+<image src="Screenshot (84).png" alt= "image added">
+  <image src="Screenshot (85).png" alt= "image added">
     <image src="Screenshot (86).png" alt= "image added">
       <image src="Screenshot (87).png" alt= "image added">
         <image src="Screenshot (88).png" alt= "image added">
